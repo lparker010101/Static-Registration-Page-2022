@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(145, 191, 223);
+    text-align: center;
+}
+
+.header {
+    background-color: white;
+    height: 3em;
+    margin-top: 1em;
+}
+
+.button {
+    background-color: rgb(0, 110, 255);
+    color: white;
+    padding: 10px 10px 10px 10px;
+    margin-left: 50em;
+    display: inline;
+    font-size: 20px;
+}
+
+.button1{
+    background-color: rgb(0, 110, 255);
+    color: white;
+    padding: 10px 10px 10px 15px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.form {
+    background-color: white;
+    margin-left: 40em;
+    margin-right: 40em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    padding-top: 3em;
+    padding-bottom: 3em;
+    padding-left: 4em;
+    padding-right: 4em;
+}
+
+.inputBoxes {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+h1 {
+    padding-right: 2em;
+}
+
+.SubmitButton {
+    background-color: rgb(0, 110, 255);
+    color: white;
+    width: 13em;
+}
